@@ -1,0 +1,23 @@
+**Front End**
+
+Hi all, I would like to share with you an open-source project that we are working on, that is designed for developers to create server‑side applications, without coding. 
+
+In many projects we found ourselves spending too much time working on repetitive server-side tasks that don't add any actual value to the project.
+
+The tool we are developing, allows you to easily define your application's data models, and automatically generates the server-side code (node.js) for your application. 
+
+You can deploy your application in one click to our cloud or download your application source code and continue on your own.
+
+The project is at an early stage, and we will be happy to get your feedback and ideas on how to improve.
+
+**Back End**
+
+Hi all, I would like to share with you an open-source project that we are working on, that is designed for developers to create server‑side applications, automatically.
+
+In many projects we found ourselves spending too much time working on repetitive server-side tasks that don't add any actual value to the project.
+
+The tool we are developing, allows you to easily define your application's data models, and automatically generates the server-side code (TypeScript node.js with PostgreSQL) which you can download, and modify easily. 
+
+The generated code is high quality human readable code (you can put that to the test...). You can deploy your app in one click to our cloud or download a Docker container to deploy elsewhere.
+
+The project is at an early stage, and we will be happy to get your feedback and ideas on how to improve.
